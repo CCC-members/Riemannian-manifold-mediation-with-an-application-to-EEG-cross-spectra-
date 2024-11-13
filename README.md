@@ -2,8 +2,8 @@
 
 This MATLAB code is designed for **mediation analysis** where the mediator is a matrix, and both the exposure and outcome are scalars. The method requires installing the following toolboxes:
 
-- **SparseReg Toolbox**: [SparseReg Toolbox Documentation](http://127.0.0.1:49410/static/help/3ptoolbox/sparseregtoolbox/doc/sparsereg_toolbox_product_page.html?searchPort=49410)
-- **TensorReg Toolbox**: [TensorReg Toolbox Documentation](http://127.0.0.1:49410/static/help/3ptoolbox/tensorregtoolbox/doc/tensorreg_toolbox_product_page.html?searchPort=49410)
+- **SparseReg Toolbox**: [SparseReg Toolbox Documentation](https://hua-zhou.github.io/SparseReg/)
+- **TensorReg Toolbox**: [TensorReg Toolbox Documentation](https://hua-zhou.github.io/TensorReg/)
 
 Key stages in the code include:
 
