@@ -7,7 +7,7 @@ The method requires installing the following toolboxes:
 - **SparseReg Toolbox**: [SparseReg Toolbox Documentation](https://hua-zhou.github.io/SparseReg/)
 - **TensorReg Toolbox**: [TensorReg Toolbox Documentation](https://hua-zhou.github.io/TensorReg/)
 
-In addition, the files inside the `mex lifes.zip` needs to be extracted and added to the Matlab path
+In addition, the files inside the `mex files.zip` needs to be extracted and added to the Matlab path
 
 Key stages in the code include:
 
